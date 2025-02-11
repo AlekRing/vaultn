@@ -2,6 +2,10 @@
 
 ### AI‑assisted workflow
 
+**Deployed Test Case:**
+
+You can view the deployed test case here: [Test Case Demo](https://vaultn-fawn.vercel.app/)
+
 1. **Clarify & Validate Requirements**  
    - Consult AI to ensure the task is fully understood and clarify any ambiguities.
 
